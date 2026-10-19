@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/demo_luminance.png",
+  "metadata": null,
+  "name": "demo",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 47,
+    "width": 1488,
+    "height": 1984,
+    "isRotated": false,
+    "originalWidth": 1488,
+    "originalHeight": 2078
+  },
+  "resources": {
+    "originalImage": "demo_original.png",
+    "croppedImage": "demo_cropped.png",
+    "thumbnailImage": "demo_thumbnail.png",
+    "luminanceImage": "demo_luminance.png"
+  },
+  "created": 1791547470016,
+  "updated": 1791547470016
+}

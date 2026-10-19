@@ -1,0 +1,7 @@
+# Tuning-Werkzeug: nie einchecken (s. L77D/v2tracker CLAUDE.md „Konventionen")
+tuning.json
+beats.theatre.json
+# System
+.DS_Store
+Thumbs.db
+node_modules/

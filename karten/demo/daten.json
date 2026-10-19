@@ -1,0 +1,34 @@
+{
+  "format": 2,
+  "id": "demo",
+  "profession": "Elektroniker*in für Betriebstechnik",
+  "company": "Musterbetrieb",
+  "companyLogo": "logo.webp",
+  "companyNeutral": "der Betrieb",
+  "idleReturnMs": 16000,
+  "vorschau": "vorschau.jpg",
+  "figur": {
+    "posen": {
+      "idle": "figur/body_idle.webp",
+      "affirm": "figur/body_react_affirm.webp",
+      "think": "figur/body_react_think.webp"
+    },
+    "kopf": "figur/head.webp",
+    "gesicht": {
+      "neutral": "figur/face_neutral.webp",
+      "blink": "figur/face_blink.webp",
+      "talk": "figur/face_talk.webp"
+    }
+  },
+  "designs": [
+    {
+      "id": "demo",
+      "fassung": "firma",
+      "name": "Demo-Karte (Kartenbild = Testdruck P04, 04_2809_1)",
+      "target": "targets/demo.json",
+      "breiteMm": 63,
+      "qr": "l77d.github.io/detar-temp/?karte=demo",
+      "notiz": "Erkennungsdaten identisch mit Design p04 der Karte 000 in L77D/v2tracker (Figma DETAR, Seite PRINT, Rahmen 04_2809_1 ohne 3 mm Beschnitt, 1488×2078, image-target-cli, Standard-Crop 3:4 zentriert). Gedruckte P04-Karte scannen."
+    }
+  ]
+}
