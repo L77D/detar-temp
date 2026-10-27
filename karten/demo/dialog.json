@@ -49,7 +49,7 @@
             "reden"
           ],
           "tag": "schulterzucken",
-          "reply": "Verstehe. Im Team wird ständig geredet. Den Großteil des Tages hast du aber Werkzeug in der Hand, nicht Leute vor dir [Annahme]."
+          "reply": "Verstehe. Im Team wird ständig geredet. Den Großteil des Tages hast du aber Werkzeug in der Hand, nicht Leute vor dir."
         },
         {
           "label": "Eher mit Maschinen",
@@ -60,7 +60,7 @@
             "technik"
           ],
           "tag": "bestaetigen",
-          "reply": "Kenn ich. Der Tag geht fast komplett für den Kasten drauf — geredet wird vor allem mit den zwei Leuten, mit denen man dransteht [Annahme]."
+          "reply": "Kenn ich. Der Tag geht fast komplett für den Kasten drauf — geredet wird vor allem mit den zwei Leuten, mit denen man dransteht."
         },
         {
           "label": "Weiß ich noch nicht",
@@ -83,22 +83,22 @@
         {
           "label": "So zwanzig",
           "tag": "schulterzucken",
-          "reply": "Deutlich mehr: ein paar hundert [Annahme]. Jedes wird auf Länge geschnitten, festgeschraubt und geprüft."
+          "reply": "Deutlich mehr: ein paar hundert. Jedes wird auf Länge geschnitten, festgeschraubt und geprüft."
         },
         {
           "label": "Ein paar hundert",
           "tag": "bestaetigen",
-          "reply": "<knall>Genau.</knall> Jedes wird geschnitten, festgeschraubt und geprüft. Deshalb dauert ein Kasten mehrere Tage [Annahme]."
+          "reply": "<knall>Genau.</knall> Jedes wird geschnitten, festgeschraubt und geprüft. Deshalb dauert ein Kasten mehrere Tage."
         },
         {
           "label": "Tausende",
           "tag": "schulterzucken",
-          "reply": "So viele dann doch nicht. Ein paar hundert bei einem größeren Kasten [Annahme] — aber jedes davon geht einzeln durch meine Hände."
+          "reply": "So viele dann doch nicht. Ein paar hundert bei einem größeren Kasten — aber jedes davon geht einzeln durch meine Hände."
         },
         {
           "label": "Keine Ahnung",
           "tag": "schulterzucken",
-          "reply": "Ein paar hundert [Annahme]. Und jedes einzelne wird auf Länge geschnitten, festgeschraubt und geprüft."
+          "reply": "Ein paar hundert. Und jedes einzelne wird auf Länge geschnitten, festgeschraubt und geprüft."
         }
       ]
     },
@@ -137,7 +137,7 @@
       "thema": "alltag",
       "label": "Was machst du hier eigentlich?",
       "tag": "erklaeren",
-      "text": "Ich baue Schaltanlagen — Stromkästen, so groß wie ein Kleiderschrank [Annahme]. Ich schraube sie zusammen, ziehe Kabel und prüfe alles.",
+      "text": "Ich baue Schaltanlagen — Stromkästen, so groß wie ein Kleiderschrank. Ich schraube sie zusammen, ziehe Kabel und prüfe alles.",
       "unlocks": [
         "tag_ablauf",
         "purpose"
@@ -148,7 +148,7 @@
       "thema": "beruf",
       "label": "Wem hilft das, was du baust?",
       "tag": "stolz",
-      "text": "Die Kästen gehen in Fabriken, Krankenhäuser und Wasserwerke [Annahme]. Fällt dort der Strom aus, merken es <marker>alle sofort</marker>.",
+      "text": "Die Kästen gehen in Fabriken, Krankenhäuser und Wasserwerke. Fällt dort der Strom aus, merken es <marker>alle sofort</marker>.",
       "unlocks": [
         "anstrengend"
       ]
@@ -158,7 +158,7 @@
       "thema": "alltag",
       "label": "Wie sieht dein Tag aus?",
       "tag": "erklaeren",
-      "text": "Um halb sieben geht's los: kurz besprechen, dann an den Kasten [Annahme]. Vormittags schrauben, nachmittags messen [Annahme].",
+      "text": "Um halb sieben geht's los: kurz besprechen, dann an den Kasten. Vormittags schrauben, nachmittags messen.",
       "unlocks": [
         "anstrengend",
         "lernort"
@@ -185,7 +185,7 @@
           "menschen"
         ]
       },
-      "text": "Im Team dauernd, wir bauen zu zweit oder zu dritt an einem Kasten [Annahme]. Die Leute, für die wir bauen, sehe ich aber fast nie [Annahme]."
+      "text": "Im Team dauernd, wir bauen zu zweit oder zu dritt an einem Kasten. Die Leute, für die wir bauen, sehe ich aber fast nie."
     },
     {
       "id": "technik",
@@ -204,7 +204,7 @@
       "thema": "beruf",
       "label": "Was lernst du in der Berufsschule?",
       "tag": "erklaeren",
-      "text": "Einmal die Woche Berufsschule [Annahme]: Strom, Schaltungen, viel Rechnen. Dazu Deutsch und Sozialkunde [Annahme].",
+      "text": "Einmal die Woche Berufsschule: Strom, Schaltungen, viel Rechnen. Dazu Deutsch und Sozialkunde.",
       "unlocks": [
         "danach"
       ]
@@ -214,7 +214,7 @@
       "thema": "alltag",
       "label": "Was ist daran anstrengend?",
       "tag": "erschoepft",
-      "text": "Den ganzen Tag <zittern>stehen</zittern>, im Sommer in einer warmen Halle [Annahme]. Am meisten schlaucht das Prüfen: Da darf nichts durchrutschen [Annahme].",
+      "text": "Den ganzen Tag <zittern>stehen</zittern>, im Sommer in einer warmen Halle. Am meisten schlaucht das Prüfen: Da darf nichts durchrutschen.",
       "unlocks": [
         "danach"
       ]
@@ -256,7 +256,7 @@
       "thema": "wege",
       "label": "Wie kommt man an ein Praktikum?",
       "tag": "erklaeren",
-      "text": "Über die Schule, die hat feste Praktikumswochen [Annahme]. Oder per Mail an den Betrieb: Name, Klasse, Zeitraum, warum der Beruf.",
+      "text": "Über die Schule, die hat feste Praktikumswochen. Oder per Mail an den Betrieb: Name, Klasse, Zeitraum, warum der Beruf.",
       "unlocks": [
         "praktikum_was"
       ]
@@ -266,7 +266,7 @@
       "thema": "wege",
       "label": "Und was bringt mir das?",
       "tag": "stolz",
-      "text": "Du siehst den echten Alltag: wie laut es ist, wie gearbeitet wird. Selbst machen darfst du wenig [Annahme], aber du merkst, ob's dich packt."
+      "text": "Du siehst den echten Alltag: wie laut es ist, wie gearbeitet wird. Selbst machen darfst du wenig, aber du merkst, ob's dich packt."
     },
     {
       "id": "link",
