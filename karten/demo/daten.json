@@ -27,7 +27,7 @@
       "name": "Demo-Karte (Kartenbild DEMO, Elektroniker*in, 2026-10-28)",
       "target": "targets/demo.json",
       "breiteMm": 63,
-      "qr": "l77d.github.io/detar-temp/?karte=demo",
+      "qr": "https://detar.io/11",
       "notiz": "Neues Kartenbild der Demo-Karte (Michael 2026-10-28, ersetzt das P04-Motiv): 1488×2078, image-target-cli 1.0.0, Standard-Crop 3:4 zentriert. Gedruckte DEMO-Karte scannen; die alte P04-Karte wird hier nicht mehr erkannt."
     }
   ]
