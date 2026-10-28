@@ -1,6 +1,6 @@
 # DETAR — Demo-Karte (temporär)
 
-Kopie der Engine aus `L77D/v2tracker` (`main`, Build 111, Stand 2026-10-15)
+Kopie der Engine aus `L77D/v2tracker` (`main`, Build 112, Stand 2026-10-28)
 mit genau einer Karte: **`demo`** (Elektroniker*in für Betriebstechnik bei
 „Musterbetrieb", neutrale Beispielfassung mit Platzhalter-Logo).
 
