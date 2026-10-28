@@ -6,9 +6,9 @@ mit genau einer Karte: **`demo`** (Elektroniker*in für Betriebstechnik bei
 
 **Link:** https://l77d.github.io/detar-temp/?karte=demo (auch `?k=demo`)
 
-- Erkennungsbild = Testdruck **P04** (04_2809_1, 63 × 88 mm) — dieselben
-  Erkennungsdaten wie `karten/000/targets/p04.*` im Haupt-Repo. Zum Testen die
-  gedruckte P04-Karte scannen.
+- Erkennungsbild = Kartenbild **DEMO** (Elektroniker*in für Betriebstechnik,
+  63 × 88 mm, Stand 2026-10-28; ersetzt das frühere P04-Motiv). Zum Testen die
+  gedruckte DEMO-Karte scannen.
 - Public-Fassung: `?k=demoP` gibt es nicht (der Alias gilt nur hinter Ziffern);
   bei Bedarf ein zweites Design mit `"fassung": "public"` anlegen.
 - QR-Code zum Link: `karten.html` im Browser öffnen.
